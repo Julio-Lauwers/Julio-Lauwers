@@ -1,7 +1,7 @@
 ### Desenvolvedor FullStack
 
 - :computer: Hoje trabalho como freelancer
-- :books: Cursando Analise de Desenvolvimento de Projetos
+- :books: Cursando Analise de Desenvolvimento de Sistemas
 - :swimmer: Momento de lazer gosto de ir a praia
 <p>Minhas Techs:</p>
 <div>
