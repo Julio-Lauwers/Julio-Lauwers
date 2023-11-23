@@ -1,5 +1,5 @@
 ### Desenvolvedor FullStack
-<p> <p>
+
 - 💻 Hoje trabalho como freelancer 
 - 🏫 Cursando Analise de Desenvolvimento de Sistemas
 - 👨‍💻 Especialista em wordpress
