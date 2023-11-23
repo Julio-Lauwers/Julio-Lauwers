@@ -1,8 +1,9 @@
 ### Desenvolvedor FullStack
-
-- :computer: Hoje trabalho como freelancer
-- :books: Cursando Analise de Desenvolvimento de Sistemas
+<p> <p>
+- 💻 Hoje trabalho como freelancer 
+- 🏫 Cursando Analise de Desenvolvimento de Sistemas
 - 👨‍💻 Especialista em wordpress
+- 🚀 Buscando ser especislista em soluções web
 <p>Minhas Techs:</p>
 <div>
 <img align="center" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
